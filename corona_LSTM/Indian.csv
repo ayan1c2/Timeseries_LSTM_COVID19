@@ -1,0 +1,348 @@
+﻿ID,Unique id,Government id,Diagnosed date,Age Group,Age,Gender,Detected city,Detected city pt,Detected district,Detected state,Nationality,Current status,Status change date,Notes,Current location,Current location pt,Created on,Updated on,Contacts
+1,1,KL-TS-P1,30-Jan-20,0-20,20,Female,Thrissur,SRID=4326;POINT (76.21325419999999 10.5256264),Thrissur,Kerala,India,Recovered,2/14/2020,"Travelled from Wuhan.
+Student from Wuhan",,SRID=4326;POINT (76.21325419999999 10.5256264),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,
+4,4,DL-P1,2-Mar-20,21-60,45,Male,East Delhi (Mayur Vihar),SRID=4326;POINT (80 20),East Delhi,Delhi,India,Recovered,3/15/2020,"Travelled from Austria, Italy.
+Travel history to Italy and Austria",,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 22:, Patient 23:, Patient 24:, Patient 25:, Patient 26:, Patient 27:, Patient 47:"
+6,6,,3-Mar-20,61-100,69,Male,Jaipur,SRID=4326;POINT (75.82034899999999 26.916194),Jaipur,Rajasthan,Italy,Recovered,3/3/2020,"Travelled from Italy.
+Italian tourist",,SRID=4326;POINT (75.82034899999999 26.916194),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 7:, Patient 8:, Patient 9:, Patient 10:, Patient 11:, Patient 12:, Patient 13:, Patient 14:, Patient 15:, Patient 16:, Patient 17:, Patient 18:, Patient 19:, Patient 20:, Patient 21:, Patient 28:"
+21,21,,4-Mar-20,,70,Female,Jaipur,SRID=4326;POINT (75.82034899999999 26.916194),Jaipur,Rajasthan,Italy,Recovered,3/4/2020,"Travelled from Italy, Wife of P6.
+Italian tourist (wife of P6)",,SRID=4326;POINT (75.82034899999999 26.916194),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 6:
+29,29,DL-P2,5-Mar-20,,27,Male,Janakpuri,SRID=4326;POINT (77.0874757 28.6219272),,Delhi,India,Hospitalized,3/5/2020,"Travelled from Italy PayTm Emp, .
+PayTm Emp, Travelled from Italy",,SRID=4326;POINT (77.0874757 28.6219272),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 40:DL-P4
+30,30,,5-Mar-20,,59,Male,Ghaziabad,SRID=4326;POINT (77.4120356 28.6711527),Ghaziabad,Uttar Pradesh,India,Recovered,3/5/2020,"Travelled from Iran.
+Travelled to Iran",,SRID=4326;POINT (77.4120356 28.6711527),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 82:
+32,32,,7-Mar-20,,65,Male,Ladakh,SRID=4326;POINT (77.73912976512662 34.18818945),Leh,Ladakh,India,Hospitalized,3/7/2020,Travelled from Iran,,SRID=4326;POINT (77.73912976512662 34.18818945),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,
+33,33,,7-Mar-20,,75,Male,Ladakh,SRID=4326;POINT (77.73912976512662 34.18818945),Leh,Ladakh,India,Hospitalized,3/7/2020,Travelled from Iran,,SRID=4326;POINT (77.73912976512662 34.18818945),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,
+34,34,,7-Mar-20,,45,Male,Kancheepuram,SRID=4326;POINT (80 20),Chennai,Tamil Nadu,India,Recovered,3/7/2020,Travelled from Oman,,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,
+35,35,KL-PT-P1,8-Mar-20,,24,Male,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/8/2020,"Travelled from Italy on 29/02/2020 through Doha.
+Travel from Italy on 29/02/2020 through Doha",,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 36:KL-PT-P1, Patient 37:KL-P1-P1, Patient 38:KL-PT-P2, Patient 39:KL-PT-P2, Patient 49:KL-PT-P3, Patient 50:KL-PT-P4"
+36,36,KL-PT-P1,8-Mar-20,,54,Male,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/8/2020,"Travelled from Italy on 29/02/2020 through Doha.
+Travel from Italy on 29/02/2020 through Doha",,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 35:KL-PT-P1, Patient 49:KL-PT-P3, Patient 50:KL-PT-P4, Patient 56:KL-PT-P5, Patient 57:KL-PT-P6, Patient 58:KL-KT-R1, Patient 59:KL-KT-R2"
+37,37,KL-P1-P1,8-Mar-20,,53,Female,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/8/2020,"Travelled from Italy on 29/02/2020 through Doha.
+Travel from Italy on 29/02/2020 through Doha",,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 35:KL-PT-P1, Patient 49:KL-PT-P3, Patient 50:KL-PT-P4, Patient 56:KL-PT-P5, Patient 57:KL-PT-P6, Patient 58:KL-KT-R1, Patient 59:KL-KT-R2"
+38,38,KL-PT-P2,8-Mar-20,,65,Male,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/8/2020,Relative and neighbour of P35-P37,,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 35:KL-PT-P1, Patient 56:KL-PT-P5, Patient 57:KL-PT-P6, Patient 58:KL-KT-R1, Patient 59:KL-KT-R2"
+39,39,KL-PT-P2,8-Mar-20,,61,Female,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/8/2020,Relative  and neighbour of P35-P37,,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 35:KL-PT-P1
+40,40,DL-P4,9-Mar-20,,25,Female,Tri Nagar,SRID=4326;POINT (80 20),,Delhi,India,Hospitalized,3/9/2020,No travel history,,SRID=4326;POINT (80 20),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 29:DL-P2
+41,41,,9-Mar-20,,63,Female,Jammu,SRID=4326;POINT (74.8580917 32.7185614),,Jammu and Kashmir,India,Hospitalized,3/9/2020,"Travelled from Iran.
+Travel history - Italy, S Korea, Iran",,SRID=4326;POINT (74.8580917 32.7185614),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 84:
+43,43,KL-KN-1,9-Mar-20,,3,Male,Kannur,SRID=4326;POINT (75.3738043 11.8762254),Kannur,Kerala,India,Hospitalized,3/9/2020,"Travelled from Italy on 07/03/2020 (Parents in isolation).
+Travel from Italy on 07/03/2020 (Parents in isolation)",,SRID=4326;POINT (75.3738043 11.8762254),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,"Patient 54:KL-EL-P1, Patient 55:KL-EL-P2"
+47,47,,9-Mar-20,,48,Male,Agra,SRID=4326;POINT (78.00981609999999 27.1752554),,Uttar Pradesh,India,Recovered,3/9/2020,"Factory Manager contact with businessman from Italy.
+Factory worker contact with businessman",,SRID=4326;POINT (78.00981609999999 27.1752554),03/23/2020 12:20 p.m.,03/23/2020 12:20 p.m.,Patient 4:DL-P1
+51,51,KA-P2,10-Mar-20,,40,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/10/2020,"Travelled from US on Feb 28, Dell Employee.
+Dell Employee, Returned from Austin on Feb 28",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 52:KA-P3, Patient 53:KA-P4"
+53,53,KA-P4,10-Mar-20,,13,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/10/2020,Daughter of P51 and P52,,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,Patient 51:KA-P2
+56,56,KL-PT-P5,10-Mar-20,,96,Male,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/10/2020,Father of P36,,SRID=4326;POINT (80 20),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 36:KL-PT-P1, Patient 37:KL-P1-P1, Patient 38:KL-PT-P2"
+57,57,KL-PT-P6,10-Mar-20,,89,Female,Ranni,SRID=4326;POINT (80 20),Pathanamthitta,Kerala,India,Hospitalized,3/10/2020,Mother of P36,,SRID=4326;POINT (80 20),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 36:KL-PT-P1, Patient 37:KL-P1-P1, Patient 38:KL-PT-P2"
+60,60,,10-Mar-20,,3,Female,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/10/2020,Daughter of P44 & P45,,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 44:, Patient 45:"
+63,63,,10-Mar-20,,85,Male,Jaipur,SRID=4326;POINT (75.82034899999999 26.916194),Jaipur,Rajasthan,India,Recovered,3/10/2020,"Travelled from Dubai.
+Returned from Dubai",,SRID=4326;POINT (75.82034899999999 26.916194),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+64,64,DL-P5,11-Mar-20,,46,Male,Janakpuri,SRID=4326;POINT (77.0874757 28.6219272),,Delhi,India,Hospitalized,3/11/2020,"Travelled from Japan, Switzerland and Italy.
+Travelled to Japan, Switzerland and Italy",,SRID=4326;POINT (77.0874757 28.6219272),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 72:DL-P6, Patient 142:"
+66,66,,11-Mar-20,,70,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),Mumbai,Maharashtra,India,Hospitalized,3/11/2020,"Travelled from Dubai, Co-passengers P44, P45, spouse of P67.
+Returned from Dubai, Co-passengers P44, P45, spouse of P67",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+67,67,,11-Mar-20,,68,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),Mumbai,Maharashtra,India,Hospitalized,3/11/2020,"Travelled from Dubai, Co-passengers P44, P45, spouse of P66.
+Returned from Dubai, Co-passengers P44, P45, spouse of P66",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+71,71,,12-Mar-20,,27,Male,Nellore,SRID=4326;POINT (79.98737629999999 14.4493717),S.P.S. Nellore,Andhra Pradesh,India,Hospitalized,3/12/2020,"Travelled from Italy on March 6th.
+Arrived from Italy on March 6th",,SRID=4326;POINT (79.98737629999999 14.4493717),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+72,72,DL-P6,12-Mar-20,,69,Female,Janakpuri,SRID=4326;POINT (77.0874757 28.6219272),South West Delhi,Delhi,India,Deceased,3/12/2020,Mother of P64,,SRID=4326;POINT (77.0874757 28.6219272),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,Patient 64:DL-P5
+73,73,KA-P5,12-Mar-20,,26,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Recovered,3/20/2020,"Travelled from Greece to Mumbai on March 6th, Google Employee.
+Google Employee, Came from Greece to Mumbai on March 6th",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,Patient 91:
+74,74,KA-P6,12-Mar-20,,76,Male,Kalaburgi,SRID=4326;POINT (80 20),Kalaburagi,Karnataka,India,Deceased,3/12/2020,"Travelled from Saudi on Feb 29, First death in India.
+First death in India, Returned from Saudi on Feb 29",,SRID=4326;POINT (80 20),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 116:KA-P7, Patient 137:KA-P9"
+77,77,,12-Mar-20,,65,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),Mumbai,Maharashtra,India,Deceased,3/12/2020,"Travelled from Dubai on March 8, Third death in India, , Was hospitalised in Kasturba Hospital.
+Third death in India, Returned from Dubai on March 8, Was hospitalised in Kasturba Hospital",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 93:, Patient 94:"
+78,78,,12-Mar-20,,45,Male,Nagpur,SRID=4326;POINT (79.0820556 21.1498134),Nagpur,Maharashtra,India,Hospitalized,3/12/2020,"Travelled from US on 6th March.
+Returned from US on 6th March",,SRID=4326;POINT (79.0820556 21.1498134),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 88:, Patient 89:, Patient 98:"
+79,79,,12-Mar-20,,33,Male,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/12/2020,"Travelled from US on 1st March.
+Returned from the US on 1st March",,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+80,80,,12-Mar-20,,35,Male,Thane,SRID=4326;POINT (72.9701779 19.1943294),Thane,Maharashtra,India,Hospitalized,3/12/2020,"Travelled from France on March 8.
+Returned from France on March 8",,SRID=4326;POINT (72.9701779 19.1943294),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,
+82,82,,12-Mar-20,,27,Male,Ghaziabad,SRID=4326;POINT (77.4120356 28.6711527),Ghaziabad,Uttar Pradesh,India,Hospitalized,3/12/2020,Son of P30,,SRID=4326;POINT (77.4120356 28.6711527),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,Patient 30:
+95,95,,14-Mar-20,,37,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),Mumbai,Maharashtra,India,Hospitalized,3/14/2020,"Travelled from US , From Kalyan.
+Travelled to the US , From Kalyan",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,"Patient 122:, Patient 123:"
+98,98,,14-Mar-20,,43,Male,Nagpur,SRID=4326;POINT (79.0820556 21.1498134),Nagpur,Maharashtra,India,Hospitalized,3/14/2020,"Travelled from US, travelled along with P78.
+Returned from US, travelled along with P78",,SRID=4326;POINT (79.0820556 21.1498134),03/23/2020 12:21 p.m.,03/23/2020 12:21 p.m.,Patient 78:
+103,103,,14-Mar-20,,21,Male,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/14/2020,Travelled from Thailand,,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+106,106,,14-Mar-20,,24,Male,Jaipur,SRID=4326;POINT (75.82034899999999 26.916194),Jaipur,Rajasthan,India,Hospitalized,3/14/2020,"Travelled from Spain.
+Travelled to Spain",,SRID=4326;POINT (75.82034899999999 26.916194),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+110,110,,15-Mar-20,,59,Female,Aurangabad,SRID=4326;POINT (75.33902410000002 19.877263),Aurangabad,Maharashtra,India,Recovered,3/23/2020,"Travelled from Russia and Kazakhstan.
+Travel history to Russia and Kazakhstan",Aurangabad,SRID=4326;POINT (75.33902410000002 19.877263),03/23/2020 12:22 p.m.,03/24/2020 10:47 a.m.,
+115,115,KA-P8,16-Mar-20,,32,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/16/2020,"Travelled from US via London on March 8, Co Passenger of P82.
+Returned from the US via London on March 8, Co Passenger of P82",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+116,116,KA-P7,16-Mar-20,,45,Female,Kalaburagi,SRID=4326;POINT (76.83342279999999 17.3310003),Kalaburagi,Karnataka,India,Hospitalized,3/16/2020,Daughter of P74,,SRID=4326;POINT (76.83342279999999 17.3310003),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 74:KA-P6
+122,122,,16-Mar-20,,33,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/16/2020,"Spouse of P95, From Kalyan",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 95:
+123,123,,16-Mar-20,,3,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/16/2020,"3 year old from Kalyan, Father P95 /Mother P122",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 95:
+124,124,,16-Mar-20,,44,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/16/2020,"Travelled from to Lisbon in Portugal.
+Travel history to Lisbon in Portugal",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+125,125,,16-Mar-20,,51,Female,Yavatmal,SRID=4326;POINT (78.1328518 20.390344),,Maharashtra,India,Hospitalized,3/16/2020,"Travelled from Dubai on March 1.
+Patient returned from Dubai on March 1",,SRID=4326;POINT (78.1328518 20.390344),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+126,126,,16-Mar-20,,31,Male,Bhubaneswar,SRID=4326;POINT (85.81428067984878 20.2888397),,Odisha,India,Hospitalized,3/16/2020,"Travelled from Italy.
+Returned from Italy",,SRID=4326;POINT (85.81428067984878 20.2888397),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+131,131,,17-Mar-20,,29,Female,Gurugram,SRID=4326;POINT (77.0299194 28.4646148),Gurugram,Haryana,India,Hospitalized,3/17/2020,"Travelled from Malaysia, Sector 9; .
+Sector 9; travelled from Malaysia",,SRID=4326;POINT (77.0299194 28.4646148),03/23/2020 12:22 p.m.,03/23/2020 12:34 p.m.,
+135,135,KA-P10,17-Mar-20,,20,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/17/2020,"Travelled from UK.
+Returned from UK",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+136,136,KA-P11,17-Mar-20,,67,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/17/2020,"Travelled from Dubai.
+Travel history to Dubai",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+137,137,KA-P9,17-Mar-20,,63,Male,Kalaburagi,SRID=4326;POINT (76.83342279999999 17.3310003),Kalaburagi,Karnataka,India,Hospitalized,3/17/2020,Doctor of P74,,SRID=4326;POINT (76.83342279999999 17.3310003),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,"Patient 74:KA-P6, Patient 296:KA-P16"
+138,138,,17-Mar-20,,49,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),Mumbai,Maharashtra,India,Hospitalized,3/17/2020,"Travelled from US on March 7.
+Travelled from the US on March 7",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 155:
+139,139,,17-Mar-20,,26,Male,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/17/2020,"Travelled from US on March 14.
+Travelled from the US on March 14",,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+140,140,,17-Mar-20,,68,Female,"Travelled from Abhu Dhabi, EY 250",SRID=4326;POINT (80 20),Mahe,Puducherry,India,Hospitalized,3/17/2020,"Travelled from UAE.
+Travel history UAE",,SRID=4326;POINT (80 20),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+141,141,TS-P5,17-Mar-20,,52,Male,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),Hyderabad,Telangana,Indonesia,Hospitalized,3/17/2020,"Indonesian national; The patient had flown into Delhi on March 9 and after a few days took a train to Karimnagar, about 170 km from Hyderabad, for a religious meeting with a group from Indonesia and Malaysia.",,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 436:TS-P30
+143,143,,17-Mar-20,,21,Female,Gautam Buddha Nagar,SRID=4326;POINT (80 20),Gautam Buddha Nagar,Uttar Pradesh,India,Hospitalized,3/17/2020,"Travelled from France, Sector 100; .
+Sector 100; Travel history to France",,SRID=4326;POINT (80 20),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+144,144,,17-Mar-20,,18,Male,Kolkata,SRID=4326;POINT (88.34760230000001 22.5677459),Kolkata,West Bengal,India,Hospitalized,3/17/2020,"Travelled from United Kingdom (quarantined).
+Travel history to United Kingdom (quarantined)",,SRID=4326;POINT (88.34760230000001 22.5677459),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+145,145,,17-Mar-20,,34,Male,Leh,SRID=4326;POINT (77.58481329999999 34.1642029),Leh,Ladakh,India,Hospitalized,3/17/2020,Indian Army jawan,,SRID=4326;POINT (77.58481329999999 34.1642029),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+147,147,,18-Mar-20,,28,Female,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/18/2020,"Travelled from France & Netherlands, Kasaba Peth Woman,Retuned to India on March 15th.
+Kasaba Peth Woman, Travel History to France & Netherlands, Retuned to India on March 15th",,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+148,148,,18-Mar-20,,25,Male,Lucknow,SRID=4326;POINT (80.9346001 26.8381),Lucknow,Uttar Pradesh,India,Hospitalized,3/18/2020,KGMU Doctor treating infected patients,,SRID=4326;POINT (80.9346001 26.8381),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,Patient 81:
+149,149,TS-P6,18-Mar-20,,22,Male,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),Hyderabad,Telangana,India,Hospitalized,3/18/2020,"Studying BBA at Scotland, Travelled from UK.
+Travelled from Scotland, UK",,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+150,150,KA-P13,18-Mar-20,,56,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/18/2020,"Travelled from US.
+Travel History to the US",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+151,151,KA-P12,18-Mar-20,,25,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/18/2020,"Travelled from Spain AI136.
+Travel History to Spain",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:22 p.m.,03/23/2020 12:22 p.m.,
+153,153,,18-Mar-20,,44,Male,Gurugram,SRID=4326;POINT (77.0299194 28.4646148),Gurugram,Haryana,India,Hospitalized,3/18/2020,"Travelled from UK.
+Travel History to the UK",,SRID=4326;POINT (77.0299194 28.4646148),03/23/2020 12:23 p.m.,03/23/2020 12:34 p.m.,Patient 170:
+154,154,,18-Mar-20,,20,Male,Chennai,SRID=4326;POINT (80.2838331 13.0801721),,Tamil Nadu,India,Hospitalized,3/18/2020,Reached Chennai from Delhi via Train,,SRID=4326;POINT (80.2838331 13.0801721),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+155,155,,18-Mar-20,,68,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/18/2020,"Residing at N Ward,Close contact of another Covid Patient",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 138:
+156,156,KA-P14,18-Mar-20,,35,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/18/2020,"Travelled from the US.
+Travel History to the US",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+157,157,,18-Mar-20,,21,Male,Pimpri-Chinchwad,SRID=4326;POINT (73.80098289999999 18.6279288),,Maharashtra,India,Hospitalized,3/18/2020,"Travelled from Philippines, Singapore and Sri Lanka.
+Travel History to Philippines, Singapore and Sri Lanka",,SRID=4326;POINT (73.80098289999999 18.6279288),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 207:
+160,160,,18-Mar-20,,33,Male,Jhunjhunu,SRID=4326;POINT (75.3992581 28.1287995),,Rajasthan,India,Hospitalized,3/18/2020,"Travelled from Italy on March 8.
+Returned from Italy on March 8",,SRID=4326;POINT (75.3992581 28.1287995),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,"Patient 161:, Patient 162:"
+161,161,,18-Mar-20,,30,Female,Jhunjhunu,SRID=4326;POINT (75.3992581 28.1287995),,Rajasthan,India,Hospitalized,3/18/2020,"Travelled from Italy on March 8.
+Returned from Italy on March 8",,SRID=4326;POINT (75.3992581 28.1287995),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 160:
+162,162,,18-Mar-20,,3,Female,Jhunjhunu,SRID=4326;POINT (75.3992581 28.1287995),,Rajasthan,India,Hospitalized,3/18/2020,"Travelled from Italy on March 8.
+Returned from Italy on March 8",,SRID=4326;POINT (75.3992581 28.1287995),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 160:
+171,171,,18-Mar-20,,38,Female,Dilshad Garden,SRID=4326;POINT (77.3220645 28.6806819),,Delhi,India,Hospitalized,3/18/2020,"Travelled from Saudi Arabia.
+Returned from Saudi Arabia",,SRID=4326;POINT (77.3220645 28.6806819),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+172,172,,19-Mar-20,,23,Female,Chandigarh,SRID=4326;POINT (76.76465520000001 30.7194022),Chandigarh,Chandigarh,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel History to UK",,SRID=4326;POINT (76.76465520000001 30.7194022),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,"Patient 224:, Patient 225:, Patient 226:, Patient 268:PJ-P13, Patient 287:, Patient 335:"
+173,173,,19-Mar-20,,22,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel History to UK",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+174,174,,19-Mar-20,,49,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/19/2020,"Travelled from Dubai.
+Travel History to Dubai",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+175,175,KA-P15,19-Mar-20,,35,Male,Kodagu,SRID=4326;POINT (76.2818865 12.2335192),Kodagu,Karnataka,India,Hospitalized,3/19/2020,"Travelled from Saudi Arabia.
+Travel history to Saudi Arabia",,SRID=4326;POINT (76.2818865 12.2335192),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+176,176,,19-Mar-20,,24,Male,Ongole,SRID=4326;POINT (80.0499454 15.5058714),Prakasam,Andhra Pradesh,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel History to UK",,SRID=4326;POINT (80.0499454 15.5058714),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+177,177,,19-Mar-20,,24,Female,Raipur,SRID=4326;POINT (81.6336833 21.2379469),,Chhattisgarh,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel History to UK",,SRID=4326;POINT (81.6336833 21.2379469),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+181,181,,19-Mar-20,,21,Male,Chennai,SRID=4326;POINT (80.2838331 13.0801721),Chennai,Tamil Nadu,India,Hospitalized,3/19/2020,"Travelled from Dublin, Ireland on 17/3.
+Returned from Dublin, Ireland on 17/3",,SRID=4326;POINT (80.2838331 13.0801721),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+182,182,PJ-P2,19-Mar-20,,70,Male,Banga,SRID=4326;POINT (75.99362170000001 31.1858987),Shaheed Bhagat Singh Nagar,Punjab,India,Deceased,3/19/2020,"Travelled from Germany via Italy.
+Arrived from Germany via Italy",,SRID=4326;POINT (75.99362170000001 31.1858987),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,"Patient 304:PJ-P4, Patient 305:PJ-P5, Patient 306:PJ-P6, Patient 307:PJ-P7, Patient 308:PJ-P8, Patient 309:PJ-P9, Patient 311:PJ-P11, Patient 358:, Patient 359:, Patient 360:, Patient 361:, Patient 388:, Patient 488:"
+183,183,KL-KS-P3,19-Mar-20,,47,Male,Eriyal,SRID=4326;POINT (80 20),Kasaragod,Kerala,India,Hospitalized,3/19/2020,"Travelled from Dubai via Kozhikode Air India Express IX 344.
+Arrived from Dubai via Kozhikode",,SRID=4326;POINT (80 20),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+184,184,,19-Mar-20,,32,Male,Rajkot,SRID=4326;POINT (70.80283350000001 22.3051991),Rajkot,Gujarat,India,Hospitalized,3/19/2020,"Travelled from Mecca, Saudi Arabia",,SRID=4326;POINT (70.80283350000001 22.3051991),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+185,185,,19-Mar-20,,21,Female,Surat,SRID=4326;POINT (72.8081281 21.1864607),Surat,Gujarat,India,Hospitalized,3/19/2020,"Travelled from London, UK via Mumbai",,SRID=4326;POINT (72.8081281 21.1864607),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+187,187,MH-P48,19-Mar-20,,51,Male,Ahmednagar,SRID=4326;POINT (80 20),,Maharashtra,India,Hospitalized,3/19/2020,"Travelled from Dubai.
+Returned from Dubai",,SRID=4326;POINT (80 20),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+193,193,,19-Mar-20,,19,Male,Bhubaneswar,SRID=4326;POINT (85.81428067984878 20.2888397),,Odisha,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel History to the UK",,SRID=4326;POINT (85.81428067984878 20.2888397),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+196,196,,19-Mar-20,,65,Male,Visakapatnam,SRID=4326;POINT (80 20),,Andhra Pradesh,India,Hospitalized,3/19/2020,"Travelled from Saudi Arabia on 12 Mar.
+Returned from Saudi Arabia on 12 Mar",,SRID=4326;POINT (80 20),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 397:AP-P6
+197,197,,19-Mar-20,,22,Female,Rana Pratap Bagh,SRID=4326;POINT (77.1907813 28.6867059),,Delhi,India,Hospitalized,3/19/2020,"Travelled from London.
+Returned from London",,SRID=4326;POINT (77.1907813 28.6867059),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+198,198,DL-P13,19-Mar-20,,22,Male,Ashok Vihar,SRID=4326;POINT (77.1815909 28.6896603),,Delhi,India,Hospitalized,3/19/2020,"Travelled from UK.
+Travel history to UK",,SRID=4326;POINT (77.1815909 28.6896603),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+199,199,DL-P14,19-Mar-20,,32,Others,Gautam Puri,SRID=4326;POINT (80 20),,Delhi,India,Hospitalized,3/19/2020,"Travelled from Mexico.
+Travel history to Mexico",,SRID=4326;POINT (80 20),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,
+200,200,,20-Mar-20,,22,Male,Kolkata,SRID=4326;POINT (88.34760230000001 22.5677459),,West Bengal,India,Hospitalized,3/20/2020,Travelled to UK,,SRID=4326;POINT (88.34760230000001 22.5677459),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,"Patient 391:, Patient 392:, Patient 393:"
+201,201,PJ-P3,20-Mar-20,,69,Female,Mohali,SRID=4326;POINT (76.0484147 30.450764),Sahibzada Ajit Singh Nagar,Punjab,India,Hospitalized,3/20/2020,"Travelled from UK.
+Returned from UK",,SRID=4326;POINT (76.0484147 30.450764),03/23/2020 12:23 p.m.,03/23/2020 12:23 p.m.,Patient 267:PJ-P12
+206,206,,20-Mar-20,,58,Male,North Delhi,SRID=4326;POINT (80 20),,Delhi,India,Hospitalized,3/20/2020,"Travelled from UK.
+Travel history to UK",,SRID=4326;POINT (80 20),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+207,207,,20-Mar-20,,24,Male,Pimpri-Chinchwad,SRID=4326;POINT (73.80098289999999 18.6279288),,Maharashtra,India,Hospitalized,3/20/2020,Brother of P157,,SRID=4326;POINT (73.80098289999999 18.6279288),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 157:
+208,208,,20-Mar-20,,38,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/20/2020,"Travelled from Turkey.
+Travel History to Turkey",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+209,209,,20-Mar-20,,20,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/20/2020,"Travelled from UK.
+Travel History to Scotland",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+210,210,,20-Mar-20,,22,Female,Ahmedabad,SRID=4326;POINT (72.5797068 23.0216238),Ahmedabad,Gujarat,India,Hospitalized,3/20/2020,"Travelled from US.
+Returned from New York",,SRID=4326;POINT (72.5797068 23.0216238),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+211,211,,20-Mar-20,,34,Female,Ahmedabad,SRID=4326;POINT (72.5797068 23.0216238),Ahmedabad,Gujarat,India,Hospitalized,3/20/2020,"Travelled from Finland via Delhi.
+Returned from Finland via Delhi",,SRID=4326;POINT (72.5797068 23.0216238),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+212,212,,20-Mar-20,,47,Male,Vadodara,SRID=4326;POINT (73.1942567 22.2973142),,Gujarat,India,Hospitalized,3/20/2020,"Travelled from Spain via Mumbai.
+Travel history to Spain via Mumbai",,SRID=4326;POINT (73.1942567 22.2973142),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+213,213,,20-Mar-20,,37,Male,Lucknow,SRID=4326;POINT (80.9346001 26.8381),,Uttar Pradesh,India,Hospitalized,3/20/2020,"Relative of P142, junior resident at KGMU",,SRID=4326;POINT (80.9346001 26.8381),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 142:
+214,214,,20-Mar-20,,35,Male,Lucknow,SRID=4326;POINT (80.9346001 26.8381),,Uttar Pradesh,India,Hospitalized,3/20/2020,"Relative of P142, junior resident at KGMU",,SRID=4326;POINT (80.9346001 26.8381),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 142:
+215,215,,20-Mar-20,,20,Female,Lucknow,SRID=4326;POINT (80.9346001 26.8381),,Uttar Pradesh,India,Hospitalized,3/20/2020,"Relative of P142, junior resident at KGMU",,SRID=4326;POINT (80.9346001 26.8381),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 142:
+216,216,,20-Mar-20,,41,Female,Lucknow,SRID=4326;POINT (80.9346001 26.8381),,Uttar Pradesh,India,Hospitalized,3/20/2020,"Travelled from UK.
+Travel history to UK",,SRID=4326;POINT (80.9346001 26.8381),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+220,220,TS-P17,20-Mar-20,,18,Female,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),,Telangana,India,Hospitalized,3/20/2020,"Travelled from London.
+Travel history to UK",,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+222,222,,20-Mar-20,,69,Female,Vadodara,SRID=4326;POINT (73.1942567 22.2973142),,Gujarat,India,Hospitalized,3/20/2020,"Travelled from Sri Lanka.
+Travel history to Sri Lanka",,SRID=4326;POINT (73.1942567 22.2973142),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+223,223,,20-Mar-20,,27,Male,Ahmedabad,SRID=4326;POINT (72.5797068 23.0216238),,Gujarat,India,Hospitalized,3/20/2020,"Travelled from UK.
+Returned from London, UK",,SRID=4326;POINT (72.5797068 23.0216238),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+227,227,,20-Mar-20,,26,Female,Chandigarh,SRID=4326;POINT (76.76465520000001 30.7194022),,Chandigarh,India,Hospitalized,3/20/2020,"Travelled from UK, Sector 19; .
+Sector 19; Travel history to the UK",,SRID=4326;POINT (76.76465520000001 30.7194022),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+237,237,,20-Mar-20,,52,Female,Faridabad,SRID=4326;POINT (77.3085626 28.402837),,Haryana,India,Hospitalized,3/20/2020,"Travelled from Spain, Sector 15; .
+Sector 15; Travel History to Spain",,SRID=4326;POINT (77.3085626 28.402837),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+238,238,,20-Mar-20,,21,Male,Panipat,SRID=4326;POINT (76.97716749999999 29.3912753),,Haryana,India,Hospitalized,3/20/2020,"Travelled from UK.
+Travel History to UK",,SRID=4326;POINT (76.97716749999999 29.3912753),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+239,239,,20-Mar-20,,52,Male,Kasargode,SRID=4326;POINT (80 20),Kasaragod,Kerala,India,Hospitalized,3/20/2020,"Travelled from Sharjah .
+Returned from Sharjah ",,SRID=4326;POINT (80 20),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+240,240,,20-Mar-20,,27,Male,Kasargode,SRID=4326;POINT (80 20),Kasaragod,Kerala,India,Hospitalized,3/20/2020,"Travelled from Dubai via Mangalore.
+Returned from Dubai via Mangalore",,SRID=4326;POINT (80 20),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+248,248,,20-Mar-20,,59,Male,Jabalpur,SRID=4326;POINT (79.9497702 23.1608938),Jabalpur,Madhya Pradesh,India,Hospitalized,3/20/2020,"Travelled from Dubai and Thailand(Family).
+Travel history to Dubai and Thailand(Family)",,SRID=4326;POINT (79.9497702 23.1608938),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,"Patient 249:, Patient 250:"
+249,249,,20-Mar-20,,45,Female,Jabalpur,SRID=4326;POINT (79.9497702 23.1608938),Jabalpur,Madhya Pradesh,India,Hospitalized,3/20/2020,"Travelled from Dubai and Thailand(Family).
+Travel history to Dubai and Thailand(Family)",,SRID=4326;POINT (79.9497702 23.1608938),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 248:
+250,250,,20-Mar-20,,22,Female,Jabalpur,SRID=4326;POINT (79.9497702 23.1608938),Jabalpur,Madhya Pradesh,India,Hospitalized,3/20/2020,"Travelled from Dubai and Thailand(Family).
+Travel history to Dubai and Thailand(Family)",,SRID=4326;POINT (79.9497702 23.1608938),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,Patient 248:
+251,251,,20-Mar-20,,24,Male,Jabalpur,SRID=4326;POINT (79.9497702 23.1608938),Jabalpur,Madhya Pradesh,India,Hospitalized,3/20/2020,"Travelled from Germany and Switzerland.
+Travel history to Germany and Switzerland",,SRID=4326;POINT (79.9497702 23.1608938),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+252,252,TS-P18,20-Mar-20,,27,Male,Karimnagar,SRID=4326;POINT (79.1322648 18.4346438),Karimnagar,Telangana,Indonesia,Hospitalized,3/20/2020,Indonesian citizen,,SRID=4326;POINT (79.1322648 18.4346438),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+253,253,TS-P19,20-Mar-20,,60,Male,Karimnagar,SRID=4326;POINT (79.1322648 18.4346438),Karimnagar,Telangana,Indonesia,Hospitalized,3/20/2020,Indonesian citizen,,SRID=4326;POINT (79.1322648 18.4346438),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+254,254,,20-Mar-20,,32,Male,West Delhi,SRID=4326;POINT (80 20),,Delhi,India,Hospitalized,3/20/2020,"Travelled from France.
+Travel history to France",,SRID=4326;POINT (80 20),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+257,257,,20-Mar-20,,53,Male,Kalyan,SRID=4326;POINT (73.13979695285245 19.2434721),,Maharashtra,,Hospitalized,3/20/2020,"Travelled from Dubai.
+Travel History to Dubai",,SRID=4326;POINT (73.13979695285245 19.2434721),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+258,258,,20-Mar-20,,20,Male,Pune,SRID=4326;POINT (73.8544541 18.521428),,Maharashtra,India,Hospitalized,3/20/2020,"Travelled from UK.
+Travel History to Scotland",,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:24 p.m.,03/23/2020 12:24 p.m.,
+259,259,,21-Mar-20,,23,Female,Habra,SRID=4326;POINT (88.6618466 22.8446679),North 24 Parganas,West Bengal,India,Hospitalized,3/21/2020,"Travelled from UK via Mumbai.
+Returned from Scotland via Mumbai",,SRID=4326;POINT (88.6618466 22.8446679),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+266,266,PJ-P10,21-Mar-20,,42,Male,Mohali,SRID=4326;POINT (76.0484147 30.450764),Sahibzada Ajit Singh Nagar,Punjab,India,Hospitalized,3/21/2020,"Travelled from UK.
+Travel history to UK",,SRID=4326;POINT (76.0484147 30.450764),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+267,267,PJ-P12,21-Mar-20,,74,Female,Mohali,SRID=4326;POINT (76.0484147 30.450764),Sahibzada Ajit Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Sister of P201,,SRID=4326;POINT (76.0484147 30.450764),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 201:PJ-P3
+268,268,PJ-P13,21-Mar-20,,28,Female,,SRID=4326;POINT (75.50048409999999 30.9293211),Sahibzada Ajit Singh Nagar,Punjab,India,Hospitalized,3/21/2020,"Employee of P172, Accompanied P224 & Driver",,SRID=4326;POINT (75.50048409999999 30.9293211),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 172:
+269,269,,21-Mar-20,,52,Male,Vadodara,SRID=4326;POINT (73.1942567 22.2973142),,Gujarat,India,Hospitalized,3/21/2020,"Travelled from Sri Lanka, same group as P222.
+Travel History to Sri Lanka, same group as P222",,SRID=4326;POINT (73.1942567 22.2973142),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+270,270,,21-Mar-20,,63,Male,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Deceased,3/22/2020,"Travelled from UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease..
+Travel history to UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+272,272,,21-Mar-20,,41,Female,Pune,SRID=4326;POINT (73.8544541 18.521428),Pune,Maharashtra,India,Hospitalized,3/21/2020,Admitted on Swine Flu suspicion; COVID19 confirmed,,SRID=4326;POINT (73.8544541 18.521428),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,"Patient 343:, Patient 344:, Patient 345:, Patient 346:"
+285,285,KA-P19,21-Mar-20,,32,Male,Gowribidanur,SRID=4326;POINT (77.5167805 13.6114523),Chikkaballapura,Karnataka,India,Hospitalized,3/21/2020,"Travelled from Mecca, Saudi Arabia.
+Travel history to Mecca, Saudi Arabia",,SRID=4326;POINT (77.5167805 13.6114523),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 382:KA-P22
+287,287,,21-Mar-20,,38,Female,Panchkula,SRID=4326;POINT (76.8551066 30.6975401),Panchkula,Haryana,India,Hospitalized,3/21/2020,Worked at a beauty salon that Chandigarhâ€™s first coronavirus patient visited,,SRID=4326;POINT (76.8551066 30.6975401),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 172:
+293,293,,21-Mar-20,,69,Male,Surat,SRID=4326;POINT (72.8081281 21.1864607),Surat,Gujarat,India,Deceased,3/22/2020,Details awaited,,SRID=4326;POINT (72.8081281 21.1864607),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+294,294,,21-Mar-20,,67,Male,Surat,SRID=4326;POINT (72.8081281 21.1864607),Surat,Gujarat,India,Deceased,3/22/2020,"Travelled to Delhi & Jaipur.
+Details awaited",,SRID=4326;POINT (72.8081281 21.1864607),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+296,296,KA-P16,21-Mar-20,,53,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/21/2020,Domestic Help of P137,,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 137:KA-P9
+297,297,KA-P17,21-Mar-20,,39,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/21/2020,"Travelled from Netherlands.
+Travel history to Amsterdam, The Netherlands",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 473:KA-P30
+298,298,,21-Mar-20,,19,Female,Moradabad,SRID=4326;POINT (78.7732864 28.8334982),Moradabad,Uttar Pradesh,India,Hospitalized,3/21/2020,"Travelled from France.
+Travel History to France",,SRID=4326;POINT (78.7732864 28.8334982),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+299,299,TS-P20,21-Mar-20,,35,Male,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),Hyderabad,Telangana,India,Hospitalized,3/21/2020,"Contact of P191.
+Details awaited",,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 191:TS-P14
+300,300,TS-P21,21-Mar-20,,33,Male,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),Hyderabad,Telangana,India,Hospitalized,3/21/2020,"Travelled from Dubai, Beliseema MSE Cruise Emp; .
+Bellisima (?) Cruise employee; Travelled from Dubai",,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+303,303,,21-Mar-20,,65,Male,Chennai,SRID=4326;POINT (80.2838331 13.0801721),Chennai,Tamil Nadu,India,Hospitalized,3/21/2020,"Travelled from New Zealand.
+Travel history to New Zealand",,SRID=4326;POINT (80.2838331 13.0801721),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,
+304,304,PJ-P4,21-Mar-20,,35,Male,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Son of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+305,305,PJ-P5,21-Mar-20,,34,Male,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Son of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+306,306,PJ-P6,21-Mar-20,,45,Male,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Son of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+307,307,PJ-P7,21-Mar-20,,40,Female,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Daughter in Law of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+308,308,PJ-P8,21-Mar-20,,17,Male,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Grand daughter of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+309,309,PJ-P9,21-Mar-20,,36,Female,Nawanshahr,SRID=4326;POINT (76.1159294 31.1256744),Shaheed Bhagat Singh Nagar,Punjab,India,Hospitalized,3/21/2020,Daughter of P182,,SRID=4326;POINT (76.1159294 31.1256744),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+311,311,PJ-P11,21-Mar-20,,60,Male,Garshankar,SRID=4326;POINT (80 20),Hoshiarpur,Punjab,India,Hospitalized,3/21/2020,In contact with P182,,SRID=4326;POINT (80 20),03/23/2020 12:25 p.m.,03/23/2020 12:25 p.m.,Patient 182:PJ-P2
+324,324,KA-P18,21-Mar-20,,21,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,India,Hospitalized,3/21/2020,"Travelled from UK.
+Travel history to Edinburgh, Scotland",,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+325,325,KA-P20,21-Mar-20,,35,Male,Mysuru,SRID=4326;POINT (76.65536090000001 12.3051828),Mysuru,Karnataka,India,Hospitalized,3/21/2020,"Travelled from Dubai via Bengaluru.
+Travel History to Dubai via Bengaluru",,SRID=4326;POINT (76.65536090000001 12.3051828),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+326,326,,21-Mar-20,,23,Female,Sonipat,SRID=4326;POINT (77.0167323 29.0033144),Sonipat,Haryana,India,Hospitalized,3/21/2020,"Travelled from UK Sector 14; .
+Sector 14; Travel History to the UK",,SRID=4326;POINT (77.0167323 29.0033144),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+327,327,WB-P4,21-Mar-20,,57,Male,Dum Dum,SRID=4326;POINT (80.00000000000001 20),North Kolkata,West Bengal,India,Deceased,3/23/2020,"He didn't have any recent foreign travel history, but attended a marriage in Bilaspur, Chhattisgarh, last month. He returned by the Pune-Howrah Azad Hind Express, early this month.",Kolkata,SRID=4326;POINT (88.3557891834088 22.56728864646136),03/23/2020 12:26 p.m.,03/24/2020 10:42 a.m.,
+329,329,,21-Mar-20,,59,Female,Lakhapt,SRID=4326;POINT (80 20),Kutch,Gujarat,India,Hospitalized,3/21/2020,"Travelled from Saudi.
+Returned from Saudi Arabia",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+330,330,,21-Mar-20,,22,Male,East Godavari,SRID=4326;POINT (80 20),East Godavari,Andhra Pradesh,India,Hospitalized,3/21/2020,"Travelled from UK.
+London to Hyderabad to Rajahmundry",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+333,333,,21-Mar-20,,31,Male,Greater Noida,SRID=4326;POINT (77.5137649 28.4670734),,Uttar Pradesh,India,Hospitalized,3/21/2020,"Travelled from Dubai.
+Returned from Dubai",,SRID=4326;POINT (77.5137649 28.4670734),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+334,334,,21-Mar-20,,30,Male,Varanasi,SRID=4326;POINT (83.0076292 25.3356491),,Uttar Pradesh,India,Hospitalized,3/21/2020,"Travelled from Dubai on March 17 and went to Varanasi on March 18 in train.
+Arrived in Delhi from Dubai on March 17 and went to Varanasi on March 18 in train",,SRID=4326;POINT (83.0076292 25.3356491),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+336,336,KA-P21,22-Mar-20,,33,Male,Hosayellapur,SRID=4326;POINT (80 20),Dharwad,Karnataka,,Hospitalized,3/22/2020,"Travelled from Dubai via Goa.
+Foreign travel history",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+337,337,,22-Mar-20,,32,Male,Mumbai Suburb,SRID=4326;POINT (80 20),,Maharashtra,,Hospitalized,3/22/2020,"Travelled from USA, Admitted to Kasturba Hosp..
+Details awaited",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+338,338,,22-Mar-20,,30,Female,Mumbai Suburb,SRID=4326;POINT (80 20),,Maharashtra,,Hospitalized,3/22/2020,"Travelled from USA, Admitted to Kasturba Hosp..
+Details awaited",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+339,339,,22-Mar-20,,21,Male,Mumbai Suburb,SRID=4326;POINT (80 20),,Maharashtra,,Hospitalized,3/22/2020,"Travelled from Edenburg, South Africa, Admitted to Kasturba Hosp..
+Details awaited",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+340,340,,22-Mar-20,,60,Female,Mumbai Suburb,SRID=4326;POINT (80 20),,Maharashtra,,Hospitalized,3/22/2020,"Travelled from Saudi Arabia, Admitted to Kasturba Hosp..
+Details awaited",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+341,341,,22-Mar-20,,64,Female,Mumbai city,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,India,Hospitalized,3/22/2020,"Contact.
+Details awaited",,SRID=4326;POINT (72.8353355 18.9387711),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+342,342,,22-Mar-20,,35,Male,Navi Mumbai,SRID=4326;POINT (73.0198537 19.0308262),,Maharashtra,,Hospitalized,3/22/2020,"Travelled from Istanbul, Turkey, Admitted to Kasturba Hosp..
+Details awaited",,SRID=4326;POINT (73.0198537 19.0308262),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+347,347,,22-Mar-20,,26,Female,Chennai,SRID=4326;POINT (80.2838331 13.0801721),,Tamil Nadu,,Hospitalized,3/22/2020,"Travelled from Spain.
+Traveller from Spain",,SRID=4326;POINT (80.2838331 13.0801721),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+348,348,,22-Mar-20,,38,Male,Munger,SRID=4326;POINT (86.4731039 25.3773519),Munger,Bihar,India,Deceased,3/22/2020,"Travelled from Qatar, Kolkata. He was from Munger. He died yesterday at AIIMS in Patna; had Travelled from Kolkata two days back.Foreign .
+He was from Munger. He died yesterday at AIIMS in Patna; had returned from Kolkata two days back.Foreign travel history to Qatar",,SRID=4326;POINT (86.4731039 25.3773519),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+350,350,TS-P22,22-Mar-20,,24,Male,Guntur,SRID=4326;POINT (78.99936 17.7097607),,Telangana,India,Hospitalized,3/22/2020,"Travelled from London via Dubai.
+From London via Dubai",,SRID=4326;POINT (78.99936 17.7097607),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+362,362,,22-Mar-20,,26,Female,Professor Colony,SRID=4326;POINT (80 20),Bhopal,Madhya Pradesh,,Hospitalized,3/22/2020,"Travelled from UK via Delhi (by train).
+Details awaited",,SRID=4326;POINT (80 20),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+363,363,,22-Mar-20,,58,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasargod,Kerala,,Hospitalized,3/22/2020,Travelled from Middle East,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+364,364,,22-Mar-20,,27,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasargod,Kerala,,Hospitalized,3/22/2020,Travelled from Middle East,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:26 p.m.,03/23/2020 12:26 p.m.,
+365,365,,22-Mar-20,,32,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasargod,Kerala,,Hospitalized,3/22/2020,Travelled from Middle East,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+366,366,,22-Mar-20,,41,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasargod,Kerala,,Hospitalized,3/22/2020,Travelled from Middle East,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+367,367,,22-Mar-20,,33,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasargod,Kerala,,Hospitalized,3/22/2020,Travelled from Middle East,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+368,368,TS-P24,22-Mar-20,,26,Male,Rajolu,SRID=4326;POINT (80 20),East Godavari,Telangana,,Hospitalized,3/22/2020,Travelled from Sweden,,SRID=4326;POINT (80 20),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+369,369,TS-P25,22-Mar-20,,34,Male,Manikonda,SRID=4326;POINT (78.3766148 17.4037073),RangaReddy,Telangana,,Hospitalized,3/22/2020,Travelled from Sweden,,SRID=4326;POINT (78.3766148 17.4037073),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+370,370,TS-P26,22-Mar-20,,23,Male,Kothagudem,SRID=4326;POINT (80.6116162 17.5456307),Bhadradri Kothagudem,Telangana,,Hospitalized,3/22/2020,Travelled from London,,SRID=4326;POINT (80.6116162 17.5456307),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+371,371,TS-P23,22-Mar-20,,23,Male,Kukatpally,SRID=4326;POINT (78.40544079999999 17.4930841),Hyderabad,Telangana,,Hospitalized,3/22/2020,Travelled from London via Doha,,SRID=4326;POINT (78.40544079999999 17.4930841),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+372,372,TS-P27,22-Mar-20,,50,Female,Hyderabad,SRID=4326;POINT (78.4349398685041 17.4263524),Hyderabad,Telangana,,Hospitalized,3/22/2020,Travelled from Dubai,,SRID=4326;POINT (78.4349398685041 17.4263524),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+373,373,KA-P26,22-Mar-20,,22,Male,Bhatkal,SRID=4326;POINT (74.5544089 13.9873619),Uttara Kannada,Karnataka,,Hospitalized,3/22/2020,Travelled from Dubai on Spicejet SG60 (21C) ,,SRID=4326;POINT (74.5544089 13.9873619),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+376,376,,22-Mar-20,,32,Male,Vengara,SRID=4326;POINT (75.9869176 11.0515225),Malappuram,Kerala,India,Hospitalized,3/22/2020,Returned from Abhudhabi via Air India  IX 348 ,,SRID=4326;POINT (75.9869176 11.0515225),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+377,377,,22-Mar-20,,24,Male,Kadalundi,SRID=4326;POINT (80 20),Malappuram,Kerala,India,Hospitalized,3/22/2020,Returned from Dubai via Air Arabia G9  425,,SRID=4326;POINT (80 20),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+378,378,,22-Mar-20,,41,Female,,SRID=4326;POINT (76.51203959999999 10.3528744),Kozhikode,Kerala,India,Hospitalized,3/22/2020,"Travelled from Abu Dhabi, EY 250",,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+379,379,,22-Mar-20,,27,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kozhikode,Kerala,India,Hospitalized,3/22/2020,"Travelled from Dubai AI 938, Taken to hospital directly from the airport.",,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+380,380,,22-Mar-20,,61,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Ernakulam,Kerala,India,Hospitalized,3/22/2020,Travelled from Dubai,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+381,381,,22-Mar-20,,21,Female,,SRID=4326;POINT (76.51203959999999 10.3528744),Ernakulam,Kerala,India,Hospitalized,3/22/2020,Travelled from United Kingdom,,SRID=4326;POINT (76.51203959999999 10.3528744),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+382,382,KA-P22,22-Mar-20,,64,Female,Gowribidanur,SRID=4326;POINT (77.5167805 13.6114523),Chikkaballapura,Karnataka,,Hospitalized,3/22/2020,"Travelled from Mecca, Saudi Arabia along with Son(P285), via Hyderabad to Hindupur by train and to Gowribidanur by bus",,SRID=4326;POINT (77.5167805 13.6114523),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,Patient 285:KA-P19
+383,383,KA-P23,22-Mar-20,,36,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,3/22/2020,Travelled from Switzerland and France,,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+384,384,KA-P24,22-Mar-20,,27,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,3/22/2020,Travelled from Germany,,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+385,385,KA-P25,22-Mar-20,,51,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,3/22/2020,Travelled from London,,SRID=4326;POINT (77.59129969999999 12.9791198),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+389,389,,22-Mar-20,,37,Male,Greater Noida (West),SRID=4326;POINT (77.5137649 28.4670734),Gautam Buddh Nagar,Uttar Pradesh,India,Hospitalized,3/22/2020,Travelled from Denmark,,SRID=4326;POINT (77.5137649 28.4670734),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+390,390,,22-Mar-20,,62,Female,Greater Noida (West),SRID=4326;POINT (77.5137649 28.4670734),Gautam Buddh Nagar,Uttar Pradesh,India,Hospitalized,3/22/2020,"Mother of P389, details awaited",,SRID=4326;POINT (77.5137649 28.4670734),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+395,395,,22-Mar-20,,64,Female,Chennai,SRID=4326;POINT (80.2838331 13.0801721),Chennai,Tamil Nadu,,Hospitalized,3/22/2020,Returned from California - Stanley hospital,,SRID=4326;POINT (80.2838331 13.0801721),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+396,396,,22-Mar-20,,43,Male,Tiruneveli,SRID=4326;POINT (80 20),Tiruneveli,Tamil Nadu,,Hospitalized,3/22/2020,Returned from Dubai - Tirunelveli medical college.,,SRID=4326;POINT (80 20),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+397,397,AP-P6,22-Mar-20,,49,Female,Visakhapatnam,SRID=4326;POINT (83.3012842 17.7231276),Visakhapatnam,Andhra Pradesh,,Hospitalized,3/22/2020,Patient's husband tested positive,,SRID=4326;POINT (83.3012842 17.7231276),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,Patient 196:
+402,402,,22-Mar-20,,36,Male,Shashta Nagar,SRID=4326;POINT (80 20),Jodhpur,Rajasthan,,Hospitalized,3/22/2020,"Travelled from Turkey, between Mar 8th-17th",,SRID=4326;POINT (80 20),03/23/2020 12:27 p.m.,03/23/2020 12:27 p.m.,
+420,420,,23-Mar-20,,45,Male,,SRID=4326;POINT (72.03149703699282 22.41540825),Surat,Gujarat,India,Hospitalized,2/23/2020,Local transmission,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+421,421,,23-Mar-20,,58,Male,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,,Hospitalized,2/23/2020,Returned from Saudi Arabia,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+422,422,,23-Mar-20,,57,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,,Hospitalized,2/23/2020,Returned from Saudi Arabia,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+423,423,,23-Mar-20,,27,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Vadodara,Gujarat,India,Hospitalized,2/23/2020,Local transmission,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+424,424,,23-Mar-20,,29,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Vadodara,Gujarat,India,Hospitalized,2/23/2020,Local transmission,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+425,425,,23-Mar-20,,24,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,,Hospitalized,2/23/2020,Returned from Paris,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+426,426,,23-Mar-20,,33,Male,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,India,Hospitalized,2/23/2020,Local transmission,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+427,427,,23-Mar-20,,49,Male,,SRID=4326;POINT (72.03149703699282 22.41540825),Gandhinagar,Gujarat,India,Hospitalized,2/23/2020,Local transmission,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+428,428,,23-Mar-20,,46,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Vadodara,Gujarat,,Hospitalized,2/23/2020,Returned from Sri Lanka,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+429,429,,23-Mar-20,,61,Male,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,,Hospitalized,2/23/2020,Returned from UK,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+430,430,,23-Mar-20,,85,Female,,SRID=4326;POINT (72.03149703699282 22.41540825),Ahmedabad,Gujarat,,Hospitalized,2/23/2020,Returned from Saudi Arabia,,SRID=4326;POINT (72.03149703699282 22.41540825),03/23/2020 12:28 p.m.,03/23/2020 12:28 p.m.,
+434,434,TS-P28,23-Mar-20,,21,Male,Balkampet,SRID=4326;POINT (78.4504513 17.4469233),Hyderabad,Telangana,,Hospitalized,2/23/2020,Returned from France,,SRID=4326;POINT (78.4504513 17.4469233),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+435,435,TS-P29,23-Mar-20,,30,Male,Saidabad,SRID=4326;POINT (78.5147979 17.359533),Hyderabad,Telangana,,Hospitalized,2/23/2020,Returned from London,,SRID=4326;POINT (78.5147979 17.359533),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+436,436,TS-P30,23-Mar-20,,23,Male,Karimnagar,SRID=4326;POINT (79.1322648 18.4346438),Karimnagar,Telangana,,Hospitalized,2/23/2020,"No Travel History, Contact with Indonesian Group",,SRID=4326;POINT (79.1322648 18.4346438),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,Patient 141:TS-P5
+437,437,,23-Mar-20,,21,Male,Chandigarh,SRID=4326;POINT (76.76465520000001 30.7194022),Chandigarh,Chandigarh,India,Hospitalized,2/23/2020,Came in contact with brother of P172,,SRID=4326;POINT (76.76465520000001 30.7194022),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,Patient 225:
+438,438,TS-P31,23-Mar-20,,20,Male,Somajiguda,SRID=4326;POINT (78.4585197 17.4255053),Hyderabad,Telangana,,Hospitalized,2/23/2020,Returned from New York,,SRID=4326;POINT (78.4585197 17.4255053),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+439,439,TS-P32,23-Mar-20,,25,Male,Gachibowli,SRID=4326;POINT (78.35196379999999 17.4436222),Hyderabad,Telangana,,Hospitalized,2/23/2020,Returned from London,,SRID=4326;POINT (78.35196379999999 17.4436222),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+440,440,TS-P33,23-Mar-20,,56,Male,Kukatpally,SRID=4326;POINT (78.40544079999999 17.4930841),Hyderabad,Telangana,,Hospitalized,2/23/2020,Returned from Sri Lanka,,SRID=4326;POINT (78.40544079999999 17.4930841),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+443,443,,23-Mar-20,,54,Male,,SRID=4326;POINT (76.51203959999999 10.3528744),Kasaragod,Kerala,,Hospitalized,2/23/2020,"Landed in Mangalore airport, had been to Kasturba Medical College Attavar",,SRID=4326;POINT (76.51203959999999 10.3528744),03/24/2020 8:14 a.m.,03/24/2020 8:14 a.m.,
+467,467,,23-Mar-20,,61,Female,,SRID=4326;POINT (76.51203959999999 10.3528744),Ernakulam,Kerala,United Kingdom,Hospitalized,2/23/2020,"Travelled from UK, British tourist among those who visited Munnar, Wife of P229",,SRID=4326;POINT (76.51203959999999 10.3528744),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,Patient 108:KL-ID-1
+471,471,KA-P28,23-Mar-20,,38,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,Travelled from Dubai,,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+472,472,KA-P29,23-Mar-20,,41,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,Travelled from London,,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+473,473,KA-P30,23-Mar-20,,30,Female,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,"Wife of P297, KA-P17",,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,Patient 297:KA-P17
+474,474,KA-P31,23-Mar-20,,24,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,Travelled from UK and Dubai,,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+475,475,KA-P32,23-Mar-20,,60,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,Travelled from Germany,,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+476,476,KA-P33,23-Mar-20,,22,Male,Bengaluru,SRID=4326;POINT (77.59129969999999 12.9791198),Bengaluru,Karnataka,,Hospitalized,2/23/2020,"Travelled from Dubai, resident of Kannur, Kerala",,SRID=4326;POINT (77.59129969999999 12.9791198),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+477,477,,23-Mar-20,,38,Female,Mumbai,SRID=4326;POINT (72.8353355 18.9387711),,Maharashtra,,Hospitalized,2/23/2020,Travelled from Abu Dhabi ,,SRID=4326;POINT (72.8353355 18.9387711),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+484,484,,23-Mar-20,,45,Female,Khandala,SRID=4326;POINT (74.04109989149464 18.06547435),Satara,Maharashtra,,Hospitalized,2/23/2020,"Travelled from Dubai, UAE",,SRID=4326;POINT (74.04109989149464 18.06547435),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+486,486,,23-Mar-20,,45,Female,Pilibhit,SRID=4326;POINT (80.10754080018077 28.49520765),,Uttar Pradesh,,Hospitalized,2/23/2020,"Travelled from Saudi Arabia.
+Travelled in a group of 37 people to Mecca -- 36 others under observation in Lucknow ",,SRID=4326;POINT (80.10754080018077 28.49520765),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+487,487,,23-Mar-20,,69,Male,Kangra,SRID=4326;POINT (76.25 32.166667),Kangra,Himachal Pradesh,,Deceased,2/23/2020,"Tibetan refugee,died at a hospital in Tanda. Returned from the US on 15.03.2020",,SRID=4326;POINT (76.25 32.166667),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+488,488,,23-Mar-20,,2,Male,,SRID=4326;POINT (75.50048409999999 30.9293211),Shaheed Bhagat Singh Nagar,Punjab,Indian,Hospitalized,2/23/2020,Grand son of P182,,SRID=4326;POINT (75.50048409999999 30.9293211),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,Patient 182:PJ-P2
+493,493,AP-P7,23-Mar-20,,25,Male,Vishakhapatnam,SRID=4326;POINT (80 20),Vishakhapatnam,Andhra Pradesh,,Hospitalized,2/23/2020,"Travelled from Birmingham,UK.
+Birmingham to Delhi (Recommended Home Quarantine) -> Vizag airport to Thagarapuvalasa in a car with father -> develops symptoms, visits hospital (Gayatri Vidya Parishad Hospital) -> hospitalised",,SRID=4326;POINT (80 20),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+500,500,,23-Mar-20,,25,Male,Chennai,SRID=4326;POINT (80.2838331 13.0801721),Chennai,Tamil Nadu,,Hospitalized,2/23/2020,Travelled from London - RGGH,,SRID=4326;POINT (80.2838331 13.0801721),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+501,501,,23-Mar-20,,48,Male,Tiruppur,SRID=4326;POINT (77.52604780096844 10.78322705),Tiruppur,Tamil Nadu,,Hospitalized,2/23/2020,Travelled from London - ESI,,SRID=4326;POINT (77.52604780096844 10.78322705),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+502,502,,23-Mar-20,,54,Male,Madurai,SRID=4326;POINT (78.11409829999999 9.926115299999999),Madurai,Tamil Nadu,,Hospitalized,2/23/2020,Annanagar at Rajaji Hosp. No mention of travel history.,,SRID=4326;POINT (78.11409829999999 9.926115299999999),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+503,503,,23-Mar-20,,24,Male,,SRID=4326;POINT (85.906508 25.6440845),Patna,Bihar,,Hospitalized,2/23/2020,Travelled from Scotland,,SRID=4326;POINT (85.906508 25.6440845),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
+504,504,,23-Mar-20,,35,Male,Jaunpur,SRID=4326;POINT (82.48834097504385 25.7955927),Varanasi,Uttar Pradesh,,Hospitalized,2/23/2020,Travelled from Saudi Arabia on 15th Mar; Symptons on 21st Mar,,SRID=4326;POINT (82.48834097504385 25.7955927),03/24/2020 8:15 a.m.,03/24/2020 8:15 a.m.,
