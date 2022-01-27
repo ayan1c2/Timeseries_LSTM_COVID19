@@ -95,7 +95,7 @@ def mul_layer_3(n_steps, n_features):
     model.compile(optimizer = 'ADAM', loss = 'mse', metrics=['acc'])
     return model
 
-'''
+
 def cnn_LSTM(n_steps, n_features):
     # define model
     model = Sequential()
@@ -115,4 +115,4 @@ def conv_LSTM(n_steps, n_features):
     model.add(Dense(1))
     model.compile(optimizer='adam', loss='mse')
     return model
-'''
+
